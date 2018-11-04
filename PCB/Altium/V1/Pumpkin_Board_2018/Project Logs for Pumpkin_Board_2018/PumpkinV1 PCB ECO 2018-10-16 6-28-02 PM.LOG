@@ -1,0 +1,9 @@
+Added Component: Designator=U1x(MCHP-SOIC-SN8_N)
+Added Pin To Net: NetName=VCC4V Pin=U1x-1
+Added Pin To Net: NetName=NetR_PLED_2 Pin=U1x-2
+Added Pin To Net: NetName=NetR_OE_2 Pin=U1x-3
+Added Pin To Net: NetName=NetICSP_1 Pin=U1x-4
+Added Pin To Net: NetName=NetICSP_5 Pin=U1x-6
+Added Pin To Net: NetName=NetICSP_4 Pin=U1x-7
+Added Pin To Net: NetName=GND Pin=U1x-8
+Added Member To Class: ClassName=PumpkinV1 Member=Component U1x PIC12LF1572-I/SN

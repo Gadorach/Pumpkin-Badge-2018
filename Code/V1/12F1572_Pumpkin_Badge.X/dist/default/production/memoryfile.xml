@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\12F1572_Pumpkin_Badge.X_-_ORIG.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>2048</length>
+      <used>1479</used>
+      <free>569</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>256</length>
+      <used>97</used>
+      <free>159</free>
+    </memory>
+  </executable>
+</project>

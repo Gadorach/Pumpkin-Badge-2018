@@ -1,0 +1,182 @@
+Added Component: Designator=ICSP(HDR1X6H)
+Added Component: Designator=LED0(1608[0603])
+Added Component: Designator=LED1(1608[0603])
+Added Component: Designator=LED2(1608[0603])
+Added Component: Designator=LED3(1608[0603])
+Added Component: Designator=LED4(1608[0603])
+Added Component: Designator=LED5(1608[0603])
+Added Component: Designator=LED6(1608[0603])
+Added Component: Designator=LED7(1608[0603])
+Added Component: Designator=LED8(1608[0603])
+Added Component: Designator=LED9(1608[0603])
+Added Component: Designator=LED10(1608[0603])
+Added Component: Designator=LED11(1608[0603])
+Added Component: Designator=LED12(1608[0603])
+Added Component: Designator=LED13(1608[0603])
+Added Component: Designator=LED14(1608[0603])
+Added Component: Designator=LED15(1608[0603])
+Added Component: Designator=PLED(1608[0603])
+Added Component: Designator=R1(2012[0805])
+Added Component: Designator=R2(2012[0805])
+Added Component: Designator=R?(2012[0805])
+Added Component: Designator=R_PLED(2012[0805])
+Added Component: Designator=RA1(EXB2HV)
+Added Component: Designator=RA2(EXB2HV)
+Added Component: Designator=U1(MCHP-PDIP-P8)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=ICSP-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_0 Pin=C?-1
+Added Pin To Net: NetName=Net*_0 Pin=D?-1
+Added Net: Name=Net*_0
+Added Pin To Net: NetName=NetICSP_1 Pin=ICSP-1
+Added Pin To Net: NetName=NetICSP_1 Pin=U1-4
+Added Net: Name=NetICSP_1
+Added Pin To Net: NetName=NetICSP_4 Pin=ICSP-4
+Added Pin To Net: NetName=NetICSP_4 Pin=R1-2
+Added Pin To Net: NetName=NetICSP_4 Pin=U1-7
+Added Net: Name=NetICSP_4
+Added Pin To Net: NetName=NetICSP_5 Pin=ICSP-5
+Added Pin To Net: NetName=NetICSP_5 Pin=R2-2
+Added Pin To Net: NetName=NetICSP_5 Pin=U1-6
+Added Net: Name=NetICSP_5
+Added Pin To Net: NetName=NetLED0_2 Pin=LED0-2
+Added Pin To Net: NetName=NetLED0_2 Pin=RA1-16
+Added Net: Name=NetLED0_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=RA1-15
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=RA1-14
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=RA1-13
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=RA1-12
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=RA1-11
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=RA1-10
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=RA1-9
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=RA2-16
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=RA2-15
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED10_2 Pin=RA2-14
+Added Net: Name=NetLED10_2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=RA2-13
+Added Net: Name=NetLED11_2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED12_2 Pin=RA2-12
+Added Net: Name=NetLED12_2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=RA2-11
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=NetLED14_2 Pin=RA2-10
+Added Net: Name=NetLED14_2
+Added Pin To Net: NetName=NetLED15_2 Pin=LED15-2
+Added Pin To Net: NetName=NetLED15_2 Pin=RA2-9
+Added Net: Name=NetLED15_2
+Added Pin To Net: NetName=NetPLED_2 Pin=PLED-2
+Added Pin To Net: NetName=NetPLED_2 Pin=R_PLED-1
+Added Net: Name=NetPLED_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetR_PLED_2 Pin=R_PLED-2
+Added Pin To Net: NetName=NetR_PLED_2 Pin=U1-2
+Added Net: Name=NetR_PLED_2
+Added Pin To Net: NetName=NetRA1_1 Pin=RA1-1
+Added Net: Name=NetRA1_1
+Added Pin To Net: NetName=NetRA1_2 Pin=RA1-2
+Added Net: Name=NetRA1_2
+Added Pin To Net: NetName=NetRA1_3 Pin=RA1-3
+Added Net: Name=NetRA1_3
+Added Pin To Net: NetName=NetRA1_4 Pin=RA1-4
+Added Net: Name=NetRA1_4
+Added Pin To Net: NetName=NetRA1_5 Pin=RA1-5
+Added Net: Name=NetRA1_5
+Added Pin To Net: NetName=NetRA1_6 Pin=RA1-6
+Added Net: Name=NetRA1_6
+Added Pin To Net: NetName=NetRA1_7 Pin=RA1-7
+Added Net: Name=NetRA1_7
+Added Pin To Net: NetName=NetRA1_8 Pin=RA1-8
+Added Net: Name=NetRA1_8
+Added Pin To Net: NetName=NetRA2_1 Pin=RA2-1
+Added Net: Name=NetRA2_1
+Added Pin To Net: NetName=NetRA2_2 Pin=RA2-2
+Added Net: Name=NetRA2_2
+Added Pin To Net: NetName=NetRA2_3 Pin=RA2-3
+Added Net: Name=NetRA2_3
+Added Pin To Net: NetName=NetRA2_4 Pin=RA2-4
+Added Net: Name=NetRA2_4
+Added Pin To Net: NetName=NetRA2_5 Pin=RA2-5
+Added Net: Name=NetRA2_5
+Added Pin To Net: NetName=NetRA2_6 Pin=RA2-6
+Added Net: Name=NetRA2_6
+Added Pin To Net: NetName=NetRA2_7 Pin=RA2-7
+Added Net: Name=NetRA2_7
+Added Pin To Net: NetName=NetRA2_8 Pin=RA2-8
+Added Net: Name=NetRA2_8
+Added Pin To Net: NetName=VCC4V Pin=D?-2
+Added Pin To Net: NetName=VCC4V Pin=ICSP-2
+Added Pin To Net: NetName=VCC4V Pin=LED0-1
+Added Pin To Net: NetName=VCC4V Pin=LED1-1
+Added Pin To Net: NetName=VCC4V Pin=LED2-1
+Added Pin To Net: NetName=VCC4V Pin=LED3-1
+Added Pin To Net: NetName=VCC4V Pin=LED4-1
+Added Pin To Net: NetName=VCC4V Pin=LED5-1
+Added Pin To Net: NetName=VCC4V Pin=LED6-1
+Added Pin To Net: NetName=VCC4V Pin=LED7-1
+Added Pin To Net: NetName=VCC4V Pin=LED8-1
+Added Pin To Net: NetName=VCC4V Pin=LED9-1
+Added Pin To Net: NetName=VCC4V Pin=LED10-1
+Added Pin To Net: NetName=VCC4V Pin=LED11-1
+Added Pin To Net: NetName=VCC4V Pin=LED12-1
+Added Pin To Net: NetName=VCC4V Pin=LED13-1
+Added Pin To Net: NetName=VCC4V Pin=LED14-1
+Added Pin To Net: NetName=VCC4V Pin=LED15-1
+Added Pin To Net: NetName=VCC4V Pin=PLED-1
+Added Pin To Net: NetName=VCC4V Pin=R1-1
+Added Pin To Net: NetName=VCC4V Pin=R2-1
+Added Pin To Net: NetName=VCC4V Pin=U1-1
+Added Net: Name=VCC4V
+Added Member To Class: ClassName=PumpkinV1 Member=Component ICSP Header 6H
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED0 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED1 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED2 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED3 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED4 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED5 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED6 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED7 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED8 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED9 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED10 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED11 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED12 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED13 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED14 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component LED15 LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component PLED LED
+Added Member To Class: ClassName=PumpkinV1 Member=Component R1 Res3
+Added Member To Class: ClassName=PumpkinV1 Member=Component R2 Res3
+Added Member To Class: ClassName=PumpkinV1 Member=Component R? Res3
+Added Member To Class: ClassName=PumpkinV1 Member=Component R_PLED Res3
+Added Member To Class: ClassName=PumpkinV1 Member=Component RA1 Res Pack3
+Added Member To Class: ClassName=PumpkinV1 Member=Component RA2 Res Pack3
+Added Member To Class: ClassName=PumpkinV1 Member=Component U1 PIC12LF1572-E/P

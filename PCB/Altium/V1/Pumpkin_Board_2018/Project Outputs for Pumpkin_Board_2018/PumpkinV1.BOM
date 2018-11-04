@@ -1,0 +1,19 @@
+Bill of Material for 
+On 2018-10-17 at 12:50:49 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 430156043726        4301x60437x6     1    BTN                          WS-TATV 6x6 mm THT   
+ BC3AAAPC            BC3AAAPC         1    *                            AAA Battery Holder, 3 Cell 
+ Cap2                CAPR5-4X5        1    C1                           Capacitor            
+ Diode 1N4148        DO-35            1    D1                           High Conductance Fast Diode 
+ Header 6H           HDR1X6H          1    ICSP                         Header, 6-Pin, Right Angle 
+ LED                 1608[0603]      17    LED0, LED1, LED2, LED3, LED4 Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+                                           LED5, LED6, LED7, LED8, LED9
+                                           LED10, LED11, LED12, LED13
+                                           LED14, LED15, PLED
+ PCA9685PW           TSSOP28          1    U2                           IC LED DRIVER RGBA 28-TSSOP 
+ PIC12LF1572-E/P     MCHP-PDIP-P8     1    U1                           Microcontroller with High Precision 16-Bit PWMs, 2K (x14-Bit words) Program Memory, 256 Bytes SRAM, 6 I/O, Extended Temperature, 8-Pin PDIP (P8), Tube 
+ PIC12LF1572-I/SN    MCHP-SOIC-SN8_N    1    U1x                          Microcontroller with High Precision 16-Bit PWMs, 2K (x14-Bit words) Program Memory, 256 Bytes SRAM, 6 I/O, Industrial Temperature, 8-Pin SOIC (SN8), Tube 
+ Res Pack3           EXB2HV           2    RA1, RA2                     Isolated Resistor Network 
+ Res3                2012[0805]       5    R1, R2, R3, R_OE, R_PLED     Resistor             

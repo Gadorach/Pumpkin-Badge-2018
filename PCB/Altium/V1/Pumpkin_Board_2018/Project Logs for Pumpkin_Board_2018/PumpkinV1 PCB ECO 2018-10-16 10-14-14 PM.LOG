@@ -1,0 +1,11 @@
+Added Component: Designator=BTN(4301x60437x6)
+Added Component: Designator=R3(2012[0805])
+Added Pin To Net: NetName=NetU1_5 Pin=BTN-1
+Added Pin To Net: NetName=GND Pin=BTN-2
+Added Pin To Net: NetName=NetU1_5 Pin=BTN-3
+Added Pin To Net: NetName=GND Pin=BTN-4
+Added Pin To Net: NetName=NetU1_5 Pin=R3-1
+Added Pin To Net: NetName=VCC4V Pin=R3-2
+Change Net Name : Old Net Name=NetU1_5 New Net Name=NetBTN_1
+Added Member To Class: ClassName=PumpkinV1 Member=Component BTN 430156043726
+Added Member To Class: ClassName=PumpkinV1 Member=Component R3 Res3
